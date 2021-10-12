@@ -10,4 +10,4 @@ click==7.0
 itsdangerous==1.1.0
 Werkzeug==0.16.0
 MarkupSafe==1.1.1
-opencv-python==3.4.3
+opencv-python==3.4.7.28
